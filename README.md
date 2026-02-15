@@ -82,9 +82,10 @@ Edit parameters in `src/path_planner/__main__.py` to customize:
 
 This implementation is based on the following paper:
 
-> R. Secoli and F. Rodriguez y Baena, "Adaptive Path-Planning for Flexible Needle Steering Using Parallel Optimization and Replanning," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, 2021, pp. 4965-4972, doi: 10.1109/IROS51168.2021.9359507.
+> M. Pinzi, T. Watts, R. Secoli, S. Galvan and F. Rodriguez y Baena, "Path Replanning for Orientation-Constrained Needle Steering," in IEEE Transactions on Biomedical Engineering, vol. 68, no. 5, pp. 1772-1781, May 2021.
 
 **IEEE Xplore**: [https://ieeexplore.ieee.org/document/9359507](https://ieeexplore.ieee.org/document/9359507)
+**DOI**: [10.1109/TBME.2021.3053177](https://doi.org/10.1109/TBME.2021.3053177)
 
 ## License & Author
 
