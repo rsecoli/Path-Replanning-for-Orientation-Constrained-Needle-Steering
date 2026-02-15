@@ -1,0 +1,26 @@
+{
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "**/__pycache__",
+        ".venv"
+    ],
+    "executionEnvironments": [
+        {
+            "root": "src"
+        },
+        {
+            "root": ".",
+            "extraPaths": [
+                "src"
+            ]
+        }
+    ],
+    "pythonVersion": "3.9",
+    "pythonPlatform": "Darwin",
+    "typeCheckingMode": "basic",
+    "reportMissingImports": true,
+    "reportMissingTypeStubs": false,
+    "stubPath": "src"
+}
